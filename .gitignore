@@ -5,3 +5,5 @@
 *.war
 *.ear
 *.bak
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
